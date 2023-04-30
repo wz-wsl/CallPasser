@@ -11,3 +11,5 @@
 1.将生成的shellcode填到encode.py里，然后运行会生成一个ini文件
 2.编译cpp文件，将exe文件和ini文件放在同一目录下，运行exe即可
 
+注:
+本项目使用了这个项目的一些代码:https://github.com/vxunderground/VX-API
